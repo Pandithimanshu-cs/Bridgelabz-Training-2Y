@@ -20,3 +20,4 @@ public class sumofdigits {
         System.out.println(""+result);
     }
 }
+
